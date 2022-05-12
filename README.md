@@ -1,4 +1,4 @@
-# MessageScheduler
+# MessageScheduler for Facebook (fbchat library)
 Want to send a message but not disturb your friend's sleep/work etc? (Because you're awake at 3:00 AM) Just use this program to send the messages you want at anytime!
 
 Note: Create a "config.ini" file with Username and Password.
