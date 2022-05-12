@@ -3,8 +3,7 @@ Want to send a message but not disturb your friend's sleep/work etc? (Because yo
 
 Note: Create a "config.ini" file with Username and Password.
 
-# fbchat library
-
+# Login Issues
 
 Since fbchat is no longer supported, in your fbchat install, change _state.py line that says " **revision = int(r.text.split('"client_revision":', 1)[1].split(",", 1)[0])**" to **revision = 1**
 
